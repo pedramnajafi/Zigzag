@@ -20,3 +20,4 @@ A zigzag is a pattern made up of small corners at variable angles, though consta
                         space_increasing = True # Change direction
         except KeyboardInterrupt:
             sys.exit()
+
