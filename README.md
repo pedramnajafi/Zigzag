@@ -1,6 +1,7 @@
 # Zigzag
 A zigzag is a pattern made up of small corners at variable angles, though constant within the zigzag, tracing a path between two parallel lines; it can be described as both jagged and fairly regular. 
 
+
         import time
         import sys
         space = 0 # How many spaces to indent
