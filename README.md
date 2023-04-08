@@ -22,3 +22,4 @@ A zigzag is a pattern made up of small corners at variable angles, though consta
         except KeyboardInterrupt:
             sys.exit()
 
+
