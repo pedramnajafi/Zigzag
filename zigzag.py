@@ -1,5 +1,6 @@
 import time
 import sys
+
 space = 0 # How many spaces to indent
 space_increasing = True # Whether the indentation is increasing or not
 
